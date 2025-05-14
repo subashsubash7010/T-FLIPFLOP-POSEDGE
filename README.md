@@ -49,7 +49,11 @@ RegisterNumber: 212224220109
 */
 ```
 
-```VHDL
+```
+
+
+
+VHDL
 module TFLIPFLOPPOSEDGE( input clk, rst_n, input t,
 output reg q,
 output q_bar
